@@ -95,28 +95,6 @@ set PINECONE_ENV=us-east-1
 **RAG Chain:** LangChain's ConversationalRetrievalChain
 **Frontend:** Streamlit Chat UI
 
-## 📌4. Capture and submit screenshots of:
-○ **Dashboard**                    
-![alt text](<screenshots/Chatbot dashboard.png>)                    # Chatbot Dashboard before selecting option
-![alt text](<screenshots/Real-time-prediction dashboard.png>)       # Real-time prediction dashboard
-![alt text](screenshots/dashboard-with-options.png)                 # Dashboard with 2 options
-
-
-○ **Real-time prediction** 
-![alt text](<screenshots/Dataset information.png>)                  
-# Dataset information - Dataset Shape, Number of Fraudulent Transactions, Sample Data
-![alt text](screenshots/simulation.png)
-# Simulation with plot with recent transactions, Transaction Volume, Fraud Probability Distribution
-![alt text](<screenshots/data with legit-fraud.png>)
-# Data with Legit and fraud transaction
-![alt text](<screenshots/Filter category.png>)
-# Filter category - filter with simulation speed, average time between transactions, fraud probability
-
-
-○ **Chatbot with relevant answers** 
-![alt text](<screenshots/chatbot answer -1.png>)
-![alt text](<screenshots/chatbot answer- 2.png>)
-![alt text](<screenshots/chatbot answer -3.png>)
 
 
 
