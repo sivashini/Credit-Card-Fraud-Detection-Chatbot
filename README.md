@@ -43,6 +43,7 @@ o	Go to https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 o	Download the CSV file and place it in the data directory
 
 3.	Set up environment variables (for RAG implementation):
+   
 # Linux/Mac
 export GEMINI_API_KEY=AIzaSyBDbgnmAo705WKzXtGQVykpnxJtXUpUQdk
 export PINECONE_API_KEY=pcsk_7PnniW_AZxLcRnGLGvRNdVJL6xqHUWqZD5KwfFyfSq5K1PFb6RD7PPw2HFrjZqTes2F7Ug
